@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "task.h": "c",
+        "*.ipp": "c",
+        "*.inc": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}

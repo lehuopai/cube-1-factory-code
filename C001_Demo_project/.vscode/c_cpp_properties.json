@@ -1,0 +1,35 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Users/b/Desktop/esp-idf/components/driver/include",
+                "C:/Users/b/Desktop/esp-idf/components/freertos/include",
+                "C:/Users/b/Desktop/esp-idf/components/esp_common/include",
+                "C:/Users/b/Desktop/esp-idf/components/spi_flash/include",
+                "C:/Users/b/Desktop/esp-idf/components/soc/include/hal",
+                "C:/Users/b/Desktop/esp-idf/components/soc/esp32/include/soc",
+                "C:/Users/b/Desktop/esp-idf/components/esp_event/include",
+                "C:/Users/b/Desktop/esp-idf/components/nvs_flash/include",
+                "C:/Users/b/Desktop/esp-idf/components/esp_wifi/include",
+                "C:/Users/b/Desktop/esp-idf/components/log/include"
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "${workspaceRoot}",
+                    "C://Users//b//Desktop//esp-idf//components//**"
+                ]
+            },
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "intelliSenseMode": "msvc-x64",
+            "compilerArgs": []
+        }
+    ],
+    "version": 4
+}
